@@ -1,2 +1,0 @@
-# rentitp-main
-rentitp-main
